@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer branding circle shadow/glow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M54,16 A38,38 0 1,0 54,92 A38,38 0 1,0 54,16 Z" />
+        
+    <!-- Shining Red/Yellow Sun at the center (representing Jahan/Horizon illuminating) -->
+    <path
+        android:fillColor="#FFECEB"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20 Z" />
+
+    <!-- Newspaper Base Shield (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32 h36 C71,32 74,35 74,38 v34 C74,75 71,78 68,78 h-36 C29,78 26,75 26,72 v-34 C26,35 29,32 32,32 Z" />
+
+    <!-- Newspaper folded top-right accent -->
+    <path
+        android:fillColor="#F01C24"
+        android:pathData="M66,32 L74,40 L66,40 Z" />
+
+    <!-- Elegant Masthead red bar (Dainik Jahan signature layout) -->
+    <path
+        android:fillColor="#C8102E"
+        android:pathData="M32,38 h32 v5 h-32 z" />
+
+    <!-- Editorial grid lines representing journalism -->
+    <path
+        android:fillColor="#1B1B1F"
+        android:pathData="M32,49 h30 v2.5 h-30 z M32,55.5 h30 v2.5 h-30 z M32,62 h20 v2.5 h-20 z M32,68 h15 v2.5 h-15 z" />
+
+    <!-- Gold Accent Starburst overlaying on the Masthead (The Shining Star of Journalism) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M65,48 L66.5,51 L70,51.5 L67.5,54 L68.5,57.5 L65,55.5 L61.5,57.5 L62.5,54 L60,51.5 L63.5,51 Z" />
+</vector>

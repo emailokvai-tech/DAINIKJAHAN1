@@ -1,0 +1,6 @@
+{
+  "name": "Dainik Jahan",
+  "description": "Real-time news portal for Dainik Jahan with journalist workflows, Gemini API powered content optimization, social media cross-platform sharing with one click, and analytics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
